@@ -1,0 +1,8 @@
+.createTeamButton{
+    position: fixed;
+    bottom: 60px;
+
+    right: 12px;
+
+    border-radius: 50%;
+}
